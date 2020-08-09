@@ -1,1 +1,1 @@
-web: exe.py
+web: python exe.py
