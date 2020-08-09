@@ -1,5 +1,7 @@
 # API
 
+fonte: https://jtemporal.com/deploy-flask-heroku/
+
 # PASSOS:
 
 ## 0. Crie requirements.txt
