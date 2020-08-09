@@ -1,1 +1,1 @@
-FLASK_APP=exe.py flask run
+web: exe.py
